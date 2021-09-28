@@ -1,5 +1,2 @@
 Sample 6 file
-<<<<<<< HEAD
-Modified
-=======
->>>>>>> a7e54fc7af10cc7740010cce4531bad80dfd0408
+Second line
